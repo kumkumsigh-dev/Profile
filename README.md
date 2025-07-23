@@ -3,14 +3,14 @@
 ![ Design and Development](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
 
-Experienced Web Developer Proficient in HTML, CSS, JavaScript, React, and Node.js"t. I enjoy learning languages and frameworks like React and React Native, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
+Experienced Web Developer Proficient in HTML, CSS, JavaScript, React, and Node.js"t. I enjoy learning languages and frameworks like React. I also enjoy wireframing, UI, UX, and design in general.
 
 Skills:  💻 HTML, CSS, JS, ⚛ React 📱 Node.js ,Express JS, MongoDB
 
-- 🔭 I’m currently working on Developing a YouTube Analysis Extension.
-- 👯 I’m looking to collaborate on Open to collaboration for UI/UX, backend, and data analytics expertise. Let's build something impactful together!" 
+- 🔭 I’m currently working on Developing a React js based projects.
+- 👯 I’m looking to collaborate on Open to collaboration for  backend, and DSA . Let's build  learn something impactful together!" 
 - 🤔 I’m looking for help with crafting engaging and compelling content for my projects and personal profile. Open to collaboration and insights to enhance my written communication. Let's create something impactful together!" 
-- 💬 Ask me about "💬  web development, HTML, CSS, JavaScript, React, Node.js, or anything related to creating dynamic and interactive web applications. I'm here to share insights and knowledge!" 
+- 💬 Ask me about "💬  web development, HTML, CSS, JavaScript, React js or anything related to creating dynamic and interactive web applications. I'm here to share insights and knowledge!" 
 - 📫 How to reach me: https://www.linkedin.com/in/kumkum-singh/ 
 - 😄 Pronouns: She  
 
